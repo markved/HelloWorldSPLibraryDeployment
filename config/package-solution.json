@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "hello-webpart-sp-library-deployment-client-side-solution",
+    "id": "7da7bc99-0470-4839-b11b-1abdb027c170",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": false,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/hello-webpart-sp-library-deployment.sppkg"
+  }
+}
