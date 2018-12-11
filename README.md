@@ -1,7 +1,6 @@
 ## hello-webpart-sp-library-deployment
 
-This is where you include your WebPart documentation.
-
+A sample Hello World SharePoint Framework web part to demonstrate build, run and deploy (to a SP Library). Clone or download the zip. And then all you have to do is: Change CDN path to a SP library folder path (in manifest.json)
 ### Building the code
 
 ```bash
